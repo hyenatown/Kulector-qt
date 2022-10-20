@@ -3,7 +3,7 @@
 
 ---
 
-## ***[Mockup not yet available...]***
+![](docs/qk_mock_0.png)
 
 ### Kulector is a super simple app designed to catalog your collections of stuff!
 

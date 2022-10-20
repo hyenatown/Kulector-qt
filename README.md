@@ -9,4 +9,4 @@
 
 ### This version is an attempt to work the Qt Framework into the original design, bringing the pun of this being called 'Kulector' full-circle.
 
-### Primarily, qt-Kulector is just a fun tinker project to bring it to KDE.
+### Primarily, qKulector is just a fun tinker project to bring it to KDE.

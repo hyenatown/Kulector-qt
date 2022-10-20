@@ -134,7 +134,7 @@ public:
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
         label->setText(QCoreApplication::translate("MainWindow", "qKulector v0.1", nullptr));
         label_2->setText(QCoreApplication::translate("MainWindow", "Based on Kulector v0.4", nullptr));
-        label_3->setText(QCoreApplication::translate("MainWindow", "qKuclector", nullptr));
+        label_3->setText(QCoreApplication::translate("MainWindow", "qKulector", nullptr));
         label_4->setText(QCoreApplication::translate("MainWindow", "Collect what you", nullptr));
         label_5->setText(QCoreApplication::translate("MainWindow", "care about", nullptr));
         pushButton_2->setText(QCoreApplication::translate("MainWindow", "Create a Kulection", nullptr));
